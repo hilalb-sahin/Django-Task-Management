@@ -70,7 +70,7 @@ Yohann:
 
 Hilal :
 
-- Magpie/tasks/signals.py Asked GPT to how to use signals (about %80 GPT written).
+- Magpie/tasks/signals.py Asked GPT to how to use signals (about %30 GPT written).
 
 Heng:
 - Magpie/tasks/templates/create_team.html line 10, the checkbox firstly does not work while using bootstrap_form.html, so I asked AI and it it me use  form.as_p(less than 10% of the unit)
